@@ -1,2 +1,2 @@
-﻿# ALURA
+ # ALURA
  Workshop
