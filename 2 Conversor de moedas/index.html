@@ -7,21 +7,25 @@
         <link rel="icon" type="image.png" href="./assets/img/farolw.png"></link>
         <link rel="stylesheet" href="./assets/css/style.css">
         <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
-        <title>MEDIA</title>      
+        <title>CONVERSOR DE MOEDA</title>      
     </head>
 
     <body>
         <div class="container">
             <h1 class="page-title">
-            Calculadora de média</h1>
+              Conversor de moedas
+            </h1>
             <p class="page-subtitle">
-            Descubra qual a sua média de nota de todas as provas!
+              Descubra os valores em real R$
             </p>
-            <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-conversor-de-moedas.svg" class="page-logo" alt="">
+            <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-conversor-de-moedas.svg" class="page-logo" alt=""><br><br>
+            <label for="moeda">Insira o valor</label><br>
+            <input type="number" id="valor" size="2" /><br>
+            <button type="submit" onclick="Converter()">Converter</button>
+            <h2 id="valorConvertido"></h2>
           </div>
           <a href="https://alura.com.br/" target="_blank">
-          <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo">
-          </a>
+            <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo">
         
             <script src="./assets/js/script.js"></script>
     </body>
