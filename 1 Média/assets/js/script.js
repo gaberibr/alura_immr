@@ -1,9 +1,9 @@
-var nome = "Guilherme"
+var nome = "Ericlys"
 
-var notaDoPrimeiroBimestre = 9
-var notaDoSegundoBimestre = 7
-var notaDoTerceiroBimestre = 4
-var notaDoQuartoBimestre = 2 
+var notaDoPrimeiroBimestre = 9;
+var notaDoSegundoBimestre = 7;
+var notaDoTerceiroBimestre = 4;
+var notaDoQuartoBimestre = 2;
 
 var notaFinal = (notaDoPrimeiroBimestre + notaDoSegundoBimestre + notaDoTerceiroBimestre + notaDoQuartoBimestre) / 4
 

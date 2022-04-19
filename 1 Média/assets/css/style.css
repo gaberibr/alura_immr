@@ -1,10 +1,10 @@
 body {
   font-family: 'Roboto Mono',monospace;
   min-height: 400px;
-  background-image: url('https://caelum-online-public.s3.amazonaws.com/imersao-dev-3/bg.png');
+  background-image: url('https://cdn.pixabay.com/photo/2018/07/05/16/59/students-3518726_960_720.jpg');
   background-color: #000000;
   background-size: 80vh;
-  background-position: center bottom;
+  background-position: center;
   background-repeat: no-repeat;
 }
 
