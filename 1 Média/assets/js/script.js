@@ -11,8 +11,3 @@ var notaFixada = notaFinal.toFixed(1)
 
 console.log("Bem vindo " + nome)
 console.log(notaFixada)
-
-// isso é um comentário 
-
-// Revisão
-// variáveis, strings, console.log, toFixed, operações matemáticas, concatenação
